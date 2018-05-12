@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32819'
     url: http://www.gutenberg.org/2009/agents/32819
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27651#The-Two-Hundredth-Anniversary-of-the-Settlement-of-the-Town-of-New-Milford-Conn.-June-17th-19_
 gutenberg_issued: '2008-12-29'
 gutenberg_type: Text
 identifiers:
